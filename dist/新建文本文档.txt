@@ -1,0 +1,35 @@
+> cms-vue@1.0.0 build D:\vue webpack\cms-vue
+> webpack
+
+Hash: 05631c18f0a61ba10fa3
+Version: webpack 4.20.2
+Time: 1879ms
+Built at: 2018-10-23 23:03:07
+                               Asset       Size  Chunks             Chunk Names
+35f0d8edef7b63d3ce7d7e5b0e609f47.png   1.29 KiB          [emitted]
+                           bundle.js    670 KiB    main  [emitted]  main
+                          index.html  686 bytes          [emitted]
+Entrypoint main = bundle.js
+[./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.j                                      s?!./src/App.vue?vue&type=script&lang=js&] ./node_modules/babel-loader/lib??ref-                                      -1!./node_modules/vue-loader/lib??vue-loader-options!./src/App.vue?vue&type=scri                                      pt&lang=js& 82 bytes {main} [built]
+[./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/styleP                                      ostLoader.js!./node_modules/vue-loader/lib/index.js?!./src/App.vue?vue&type=styl                                      e&index=0&lang=css&] ./node_modules/css-loader!./node_modules/vue-loader/lib/loa                                      ders/stylePostLoader.js!./node_modules/vue-loader/lib??vue-loader-options!./src/                                      App.vue?vue&type=style&index=0&lang=css& 191 bytes {main} [built]
+[./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_                                      modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/vue-loader/lib/                                      index.js?!./src/App.vue?vue&type=style&index=0&lang=css&] ./node_modules/style-l                                      oader!./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostL                                      oader.js!./node_modules/vue-loader/lib??vue-loader-options!./src/App.vue?vue&typ                                      e=style&index=0&lang=css& 1.48 KiB {main} [built]
+[./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loa                                      der/lib/index.js?!./src/App.vue?vue&type=template&id=7ba5bd90&] ./node_modules/v                                      ue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-l                                      oader/lib??vue-loader-options!./src/App.vue?vue&type=template&id=7ba5bd90& 262 b                                      ytes {main} [built]
+[./node_modules/webpack/buildin/global.js] (webpack)/buildin/global.js 509 bytes                                       {main} [built]
+[./src/App.vue] 1.08 KiB {main} [built]
+[./src/App.vue?vue&type=script&lang=js&] 348 bytes {main} [built]
+[./src/App.vue?vue&type=style&index=0&lang=css&] 528 bytes {main} [built]
+[./src/App.vue?vue&type=template&id=7ba5bd90&] 195 bytes {main} [built]
+[./src/main.js] 223 bytes {main} [built]
+[./src/router.js] 1.28 KiB {main} [built]
+[lodash] external "_" 42 bytes {main} [built]
+[0] multi @babel/polyfill ./src/main.js 40 bytes {main} [built]
+[vue] external "Vue" 42 bytes {main} [built]
+[vue-router] external "VueRouter" 42 bytes {main} [built]
+    + 390 hidden modules
+Child html-webpack-plugin for "index.html":
+     1 asset
+    Entrypoint undefined = index.html
+    [./node_modules/html-webpack-plugin/lib/loader.js!./index.html] 861 bytes {0                                      } [built]
+    [./node_modules/webpack/buildin/global.js] (webpack)/buildin/global.js 509 b                                      ytes {0} [built]
+    [./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 519 b                                      ytes {0} [built]
+        + 1 hidden module
