@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 ## 项目介绍
-#### [演示地址](http://blog.ntrjbz.club/) http://blog.ntrjbz.club/
+#### [演示地址](http://glenni.tk/) http://glenni.tk/
 - 自己配置webpack开发环境，配置各种loader和babel编译器，没有使用vue-cli；
 - es6语法，eslint风格统一化，但没有在webpack中配置eslint校验。
 - 用axios发ajax请求；
